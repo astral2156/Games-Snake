@@ -1,7 +1,8 @@
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
 #endif
-
+//dd
+//
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
