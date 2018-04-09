@@ -1,0 +1,11 @@
+On branch topic1
+Your branch is ahead of 'origin/topic1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	log1.txt
+	test/
+
+nothing added to commit but untracked files present (use "git add" to track)
